@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: 84f8b278-b0a5-3d42-a18d-1dfd8b9c27d0
 ---
@@ -10,13 +12,13 @@ Minuet Models by Prof. Child
 {{< tableopen >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen rowspan="2" >}}
 MODELS
 {{< thclose >}}
 {{< thopen >}}
 OUTER VOICES ONLY
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 COMPLETE STRING QUARTET
 {{< thclose >}}
 

@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Assignments
+optional_tab_title: ''
+optional_text: ''
+parent_title: Assignments
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: The Song of Wandering Aengus
 uid: e05edb0b-d02b-8820-046b-d35094fd6031

@@ -2,6 +2,19 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Assignments
+optional_tab_title: ''
+optional_text: ''
+parent_title: Assignments
+parent_type: CourseSection
+related_resources_text: 'This section contains documents that could not be made accessible
+  to screen reader software. A "#" symbol is used to denote such documents.
+
+
+  Score ([PDF](resources/mit21m_303s09_assn07_comp02_nampaisarn "Open in a new window.")){{<
+  sup "#" >}}'
+resource_index_text: ''
 resourcetype: Video
 title: 'An die Entfernte '
 uid: ec21311b-87f4-f64c-66b5-c30022903899

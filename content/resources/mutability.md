@@ -2,6 +2,19 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Assignments
+optional_tab_title: ''
+optional_text: ''
+parent_title: Assignments
+parent_type: CourseSection
+related_resources_text: 'This section contains documents that could not be made accessible
+  to screen reader software. A "#" symbol is used to denote such documents.
+
+
+  Score ([PDF](resources/mit21m_303s09_assn08_comp02_shroyer "Open in a new window.")){{<
+  sup "#" >}}'
+resource_index_text: ''
 resourcetype: Video
 title: 'Mutability '
 uid: bf333aab-2d59-9cd2-d28b-0cb6eba12af3

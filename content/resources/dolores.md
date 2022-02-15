@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Assignments
+optional_tab_title: ''
+optional_text: ''
+parent_title: Assignments
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Dolores '
 uid: f19253dc-3cc0-5647-4fe7-ffe8cfc5fd4b

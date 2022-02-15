@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Listening and Scores
 uid: e255b8b5-75d4-f820-3af4-5bb26ff085ce
 ---
@@ -30,7 +32,7 @@ RECORDINGS
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Franz Josef Haydn
 {{< tdclose >}}
 {{< tdopen >}}
@@ -39,7 +41,7 @@ String Quartets Op. 71, No. 1 in B-flat (Minuet) and No. 2 in D (Minuet)
 {{< tdopen >}}
 [Score and parts](http://imslp.org/wiki/String_Quartets,_Op.71_%28Haydn,_Joseph%29)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Tátrai Quartet. _"Apponyi" Quartets Op. 71/74_. Hungaroton, 1992.
 {{< tdclose >}}
 
@@ -66,7 +68,7 @@ Tátrai Quartet. _Haydn: "Erdödy" Quartets Op. 76_. Hungaroton, 1992.
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 Wolfgang Amadeus Mozart
 {{< tdclose >}}
 {{< tdopen >}}
@@ -75,7 +77,7 @@ String Quartet No. 15, K. 421, in D minor (iii. Menuetto. Allegretto)
 {{< tdopen >}}
 [Score and parts](http://imslp.org/wiki/String_Quartet_No.15,_K.421_%28Mozart,_Wolfgang_Amadeus%29)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 Franz Schubert Quartett of Vienna. _Mozart: The Ten Celebrated String Quartets_. Nimbus, 1997.
 {{< tdclose >}}
 
@@ -129,7 +131,7 @@ Kodaly Quartet. Beethoven: _String Quartets (Complete) Vol. 2_. Naxos, 1996.
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 Franz Schubert
 {{< tdclose >}}
 {{< tdopen >}}
@@ -176,7 +178,7 @@ Text by Johann Wolfgang von Goethe ("Meine Ruh' ist hin", or "My peace is gone")
 [Scores](http://imslp.org/wiki/Gretchen_am_Spinnrade,_D.118_%28Op.2%29_%28Schubert,_Franz%29)  
 [Text](http://www.lieder.net/lieder/get_text.html?TextId=17757)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Tamara Takács and Jeno Jandó. _Schubert: Lieder_. Naxos, 1994.
 {{< tdclose >}}
 
@@ -193,7 +195,7 @@ Text by Matthias Claudius.
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Robert Schumann
 {{< tdclose >}}
 {{< tdopen >}}
@@ -231,7 +233,7 @@ Dietrich Fischer-Dieskau and Alfred Brendel. _Schumann: Liederkries Op.39/Dichte
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Hugo Wolf
 {{< tdclose >}}
 {{< tdopen >}}

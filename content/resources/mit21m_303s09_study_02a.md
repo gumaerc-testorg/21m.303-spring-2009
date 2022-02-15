@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information about voilin tempo di menuetto.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21m-303-writing-in-tonal-forms-i-spring-2009/b0f7110efe3ccea433eb296dc9c95517_MIT21M_303s09_study_02a.pdf
+file: /media/courses/21m-303-writing-in-tonal-forms-i-spring-2009/b0f7110efe3ccea433eb296dc9c95517_MIT21M_303s09_study_02a.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: MIT21M_303s09_study_02a.pdf
 uid: b0f7110e-fe3c-cea4-33eb-296dc9c95517

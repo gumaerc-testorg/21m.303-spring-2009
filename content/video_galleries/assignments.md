@@ -1,6 +1,9 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 61637213-6296-6990-a987-482419eee840
 videos:
