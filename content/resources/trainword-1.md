@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Listening and Scores
 parent_type: CourseSection
+parent_uid: e255b8b5-75d4-f820-3af4-5bb26ff085ce
 resourcetype: Image
 title: trainword.jpg
 uid: bf7811d8-e7be-b879-7cfb-a80d8c8c594b

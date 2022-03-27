@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 61637213-6296-6990-a987-482419eee840
 resourcetype: Document
 title: MIT21M_303s09_assn07_comp02_nampaisarn.pdf
 uid: b51c5546-8d75-c99f-138f-a3742919da3b

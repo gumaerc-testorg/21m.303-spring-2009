@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: 278e5108-1828-d62c-ebfa-78efd13ea6bd
 resourcetype: Image
 title: trainword.jpg
 uid: 709093a2-8554-99fb-ca36-ab83c1ab3501

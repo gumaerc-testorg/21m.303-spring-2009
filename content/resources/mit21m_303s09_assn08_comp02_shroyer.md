@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 61637213-6296-6990-a987-482419eee840
 resourcetype: Document
 title: MIT21M_303s09_assn08_comp02_shroyer.pdf
 uid: 9f847879-b2fc-72a5-fcdd-538ef578016a

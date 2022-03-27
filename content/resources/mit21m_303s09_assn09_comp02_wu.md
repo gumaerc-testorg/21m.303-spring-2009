@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 61637213-6296-6990-a987-482419eee840
 resourcetype: Document
 title: MIT21M_303s09_assn09_comp02_wu.pdf
 uid: ad0238ca-ef9d-4442-3adb-cece2f1d9b2e

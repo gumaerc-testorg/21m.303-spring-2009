@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 84f8b278-b0a5-3d42-a18d-1dfd8b9c27d0
 resourcetype: Document
 title: MIT21M_303s09_study_01b.pdf
 uid: eeea6724-3c75-b90a-2b5b-2aa5ade5685b

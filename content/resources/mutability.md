@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Assignments
@@ -16,6 +17,7 @@ related_resources_text: 'This section contains documents that could not be made 
   sup "#" >}}'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Mutability '
 uid: bf333aab-2d59-9cd2-d28b-0cb6eba12af3
 video_files:
