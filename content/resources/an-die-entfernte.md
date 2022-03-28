@@ -1,14 +1,15 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types:
 - Assignments
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: null
 related_resources_text: 'This section contains documents that could not be made accessible
   to screen reader software. A "#" symbol is used to denote such documents.
 
@@ -17,7 +18,6 @@ related_resources_text: 'This section contains documents that could not be made 
   sup "#" >}}'
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: 'An die Entfernte '
 uid: ec21311b-87f4-f64c-66b5-c30022903899
 video_files:

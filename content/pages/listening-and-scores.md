@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Listening and Scores
 uid: e255b8b5-75d4-f820-3af4-5bb26ff085ce
 ---
@@ -138,7 +139,7 @@ Franz Schubert
 _An Silvia_, Op. 106 No. 4 (D.891). Original German lyrics by Eduard von Bauernfeld, based on English text by William Shakespeare, from _Two Gentlemen of Verona_, Act IV, Scene 2.
 {{< tdclose >}}
 {{< tdopen >}}
-Score ([PDF]({{< baseurl >}}/resources/mit21m_303s09_score_an_sylvia))  
+Score ({{< resource_link bcff7ce2-05c6-9c62-7dce-ecb1e9655e1e "PDF" >}})  
 [Text](http://www.lieder.net/lieder/get_text.html?TextId=19060)
 {{< tdclose >}}
 {{< tdopen >}}
