@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Assignments
@@ -9,15 +10,15 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Assignments
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: 'This section contains documents that could not be made accessible
   to screen reader software. A "#" symbol is used to denote such documents.
 
 
-  Score ([PDF](resources/mit21m_303s09_assn07_comp02_nampaisarn "Open in a new window.")){{<
+  Score ([PDF](/courses/21m-303-writing-in-tonal-forms-i-spring-2009/resources/mit21m_303s09_assn07_comp02_nampaisarn)){{<
   sup "#" >}}'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'An die Entfernte '
 uid: ec21311b-87f4-f64c-66b5-c30022903899
 video_files:
@@ -34,3 +35,6 @@ video_metadata:
 **Text author:** Johann Wolfgang von Goethe
 
 **Performers:** Janna Baty (voice), Daniel Curtis (piano)
+
+
+
