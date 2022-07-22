@@ -1,8 +1,25 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Assignments
+parent_type: CourseSection
+related_resources_text: 'This section contains documents that could not be made accessible
+  to screen reader software. A "#" symbol is used to denote such documents.
+
+
+  Score ([PDF](/courses/21m-303-writing-in-tonal-forms-i-spring-2009/resources/mit21m_303s09_assn09_comp02_wu)){{<
+  sup "#" >}}'
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'A Little Boy Lost '
 uid: 4dcdbaec-8bbb-1f81-2924-06fcd2f3e95a
 video_files:
@@ -19,3 +36,4 @@ video_metadata:
 **Text author:** William Blake
 
 **Performers:** Janna Baty (voice), Daniel Curtis (piano)
+
