@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information about tempo di menuetto.
 file: /courses/21m-303-writing-in-tonal-forms-i-spring-2009/e926591eb5fbd0a113c5fab440c00f71_MIT21M_303s09_study_01a.pdf
+file_size: 74765
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
