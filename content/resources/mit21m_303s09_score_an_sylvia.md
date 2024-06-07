@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information about the music notation of who is
   sylvi.
 file: /courses/21m-303-writing-in-tonal-forms-i-spring-2009/bcff7ce205c69c627dceecb1e9655e1e_MIT21M_303s09_score_an_sylvia.pdf
+file_size: 381911
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
