@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about mutability their music notation
   of piano and soprano.
-file: /ol-ocw-studio-app/courses/21m-303-writing-in-tonal-forms-i-spring-2009/9f847879b2fc72a5fcdd538ef578016a_MIT21M_303s09_assn08_comp02_shroyer.pdf
+file: /courses/21m-303-writing-in-tonal-forms-i-spring-2009/9f847879b2fc72a5fcdd538ef578016a_MIT21M_303s09_assn08_comp02_shroyer.pdf
 file_size: 142646
 file_type: application/pdf
 learning_resource_types:

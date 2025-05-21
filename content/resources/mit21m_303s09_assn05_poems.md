@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about sample romantic poems for possible
   use as texts.
-file: /ol-ocw-studio-app/courses/21m-303-writing-in-tonal-forms-i-spring-2009/e85915e73a58689cf6d15bf9225716ef_MIT21M_303s09_assn05_poems.pdf
+file: /courses/21m-303-writing-in-tonal-forms-i-spring-2009/e85915e73a58689cf6d15bf9225716ef_MIT21M_303s09_assn05_poems.pdf
 file_size: 96052
 file_type: application/pdf
 learning_resource_types:
