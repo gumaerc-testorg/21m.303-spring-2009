@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information Minuet and Trio in a minor.
-file: /ol-ocw-studio-app/courses/21m-303-writing-in-tonal-forms-i-spring-2009/3c8986abd96a6e651234e966a5b9dce2_MIT21M_303s09_assn03_comp01_shroyer.pdf
+file: /courses/21m-303-writing-in-tonal-forms-i-spring-2009/3c8986abd96a6e651234e966a5b9dce2_MIT21M_303s09_assn03_comp01_shroyer.pdf
 file_size: 67444
 file_type: application/pdf
 learning_resource_types:

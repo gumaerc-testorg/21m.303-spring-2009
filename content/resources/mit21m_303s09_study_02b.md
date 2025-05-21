@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about violin, cello tempo di menuetto.
-file: /ol-ocw-studio-app/courses/21m-303-writing-in-tonal-forms-i-spring-2009/f49d994ee227a8cae69e35e746169b45_MIT21M_303s09_study_02b.pdf
+file: /courses/21m-303-writing-in-tonal-forms-i-spring-2009/f49d994ee227a8cae69e35e746169b45_MIT21M_303s09_study_02b.pdf
 file_size: 90846
 file_type: application/pdf
 learning_resource_types: []

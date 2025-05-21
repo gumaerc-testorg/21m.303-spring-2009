@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a support file of study materials section.
-file: /ol-ocw-studio-app/courses/21m-303-writing-in-tonal-forms-i-spring-2009/0cf30db3359bed6cecb361897106cacf_study_2b.mp3
+file: /courses/21m-303-writing-in-tonal-forms-i-spring-2009/0cf30db3359bed6cecb361897106cacf_study_2b.mp3
 file_size: 1167777
 file_type: application/octet-stream
 learning_resource_types: []
