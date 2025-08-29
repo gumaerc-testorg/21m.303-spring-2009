@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21m-303-writing-in-tonal-forms-i-spring-2009/709093a2855499fbca36ab83c1ab3501_trainword.jpg
+file: /ol-ocw-studio-app/courses/21m-303-writing-in-tonal-forms-i-spring-2009/709093a2855499fbca36ab83c1ab3501_trainword.jpg
 file_size: 368
 file_type: image/jpeg
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information some music notation Quartet in B flat
   major.
-file: /courses/21m-303-writing-in-tonal-forms-i-spring-2009/e4247b060d264db9d500b0af5802a03b_MIT21M_303s09_assn04_comp01_wu.pdf
+file: /ol-ocw-studio-app/courses/21m-303-writing-in-tonal-forms-i-spring-2009/e4247b060d264db9d500b0af5802a03b_MIT21M_303s09_assn04_comp01_wu.pdf
 file_size: 79167
 file_type: application/pdf
 learning_resource_types:

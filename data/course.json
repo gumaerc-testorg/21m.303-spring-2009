@@ -46,10 +46,11 @@
   "learning_resource_types": [
     "Demonstration Audio",
     "Workshop Videos",
-    "Music",
+    "Music Audio",
     "Activity Assignments with Examples"
   ],
   "site_uid": "2393e8b3-9a1f-411a-9ee2-43b1e619289e",
   "site_short_id": "21m.303-spring-2009",
+  "site_url_path": "courses/21m-303-writing-in-tonal-forms-i-spring-2009",
   "title": "Course Metadata"
 }
