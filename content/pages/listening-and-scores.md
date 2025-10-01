@@ -41,7 +41,7 @@ Franz Josef Haydn
 String Quartets Op. 71, No. 1 in B-flat (Minuet) and No. 2 in D (Minuet)
 {{< tdclose >}}
 {{< tdopen >}}
-[Score and parts](http://imslp.org/wiki/String_Quartets,_Op.71_%28Haydn,_Joseph%29)
+{{% resource_link "653205d8-b3ff-4a4a-8f01-5d3e8cd815c3" "Score and parts" %}}
 {{< tdclose >}}
 {{< tdopen rowspan="2" >}}
 Tátrai Quartet. _"Apponyi" Quartets Op. 71/74_. Hungaroton, 1992.
@@ -53,7 +53,7 @@ Tátrai Quartet. _"Apponyi" Quartets Op. 71/74_. Hungaroton, 1992.
 String Quartets Op. 74, No. 2 in F
 {{< tdclose >}}
 {{< tdopen >}}
-[Score and parts](http://imslp.org/wiki/String_Quartets,_Op.74_%28Haydn,_Joseph%29)
+{{% resource_link "198d122a-4bbc-4522-82c9-762e1d1fd0d2" "Score and parts" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -62,7 +62,7 @@ String Quartets Op. 74, No. 2 in F
 String Quartets Op. 76, No. 4 in B-flat (Minuet)
 {{< tdclose >}}
 {{< tdopen >}}
-[Score and parts](http://imslp.org/wiki/String_Quartets,_Op.76_%28Haydn,_Joseph%29)
+{{% resource_link "561b5ac1-b674-4f8c-b11d-9e582385a21a" "Score and parts" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Tátrai Quartet. _Haydn: "Erdödy" Quartets Op. 76_. Hungaroton, 1992.
@@ -77,7 +77,7 @@ Wolfgang Amadeus Mozart
 String Quartet No. 15, K. 421, in D minor (iii. Menuetto. Allegretto)
 {{< tdclose >}}
 {{< tdopen >}}
-[Score and parts](http://imslp.org/wiki/String_Quartet_No.15,_K.421_%28Mozart,_Wolfgang_Amadeus%29)
+{{% resource_link "832a4ca6-c630-4227-8351-84971a92aae2" "Score and parts" %}}
 {{< tdclose >}}
 {{< tdopen rowspan="4" >}}
 Franz Schubert Quartett of Vienna. _Mozart: The Ten Celebrated String Quartets_. Nimbus, 1997.
@@ -89,7 +89,7 @@ Franz Schubert Quartett of Vienna. _Mozart: The Ten Celebrated String Quartets_.
 String Quartet No. 16, K. 428, in E (iii. Menuetto. Allegretto)
 {{< tdclose >}}
 {{< tdopen >}}
-[Score and parts](http://imslp.org/wiki/String_Quartet_No.16,_K.428_%28Mozart,_Wolfgang_Amadeus%29)
+{{% resource_link "1dae9d55-d4e1-4d44-8f57-4cba4131fe70" "Score and parts" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -98,7 +98,7 @@ String Quartet No. 16, K. 428, in E (iii. Menuetto. Allegretto)
 String Quartet No. 17, K. 458, in B-flat ("The Hunt") (ii. Menuetto moderato)
 {{< tdclose >}}
 {{< tdopen >}}
-[Score and parts](http://imslp.org/wiki/String_Quartet_No.17,_K.458_%28Mozart,_Wolfgang_Amadeus%29)
+{{% resource_link "b45edea5-9169-4785-bae2-6a3884a2753f" "Score and parts" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -107,7 +107,7 @@ String Quartet No. 17, K. 458, in B-flat ("The Hunt") (ii. Menuetto moderato)
 String Quartet No. 20, K499, in D (Menuetto & Allegretto)
 {{< tdclose >}}
 {{< tdopen >}}
-[Score and parts](http://imslp.org/wiki/String_Quartet_No.20,_K.499_%28Mozart,_Wolfgang_Amadeus%29)
+{{% resource_link "1e153eb7-e747-4160-af6d-5edb25a64886" "Score and parts" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -119,7 +119,7 @@ Ludwig van Beethoven
 String Quartet No. 4 in C minor, Op. 18 No. 4, (Minuet)
 {{< tdclose >}}
 {{< tdopen >}}
-[Score and parts](http://imslp.org/wiki/String_Quartet_No.4,_Op.18_No.4_%28Beethoven,_Ludwig_van%29)
+{{% resource_link "1d14bf1a-cb62-45b6-8169-2bbd4f9caf3f" "Score and parts" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Kodaly Quartet. Beethoven: _String Quartets (Complete) Vol. 2_. Naxos, 1996.
@@ -141,10 +141,10 @@ _An Silvia_, Op. 106 No. 4 (D.891). Original German lyrics by Eduard von Bauernf
 {{< tdclose >}}
 {{< tdopen >}}
 Score ({{% resource_link bcff7ce2-05c6-9c62-7dce-ecb1e9655e1e "PDF" %}})  
-[Text](http://www.lieder.net/lieder/get_text.html?TextId=19060)
+{{% resource_link "04350d2a-f68f-48d7-8589-6561ab834089" "Text" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-Edith Wiens and Rudolph Jansen. [_Schubert: Lieder_](http://www.classicsonline.com/catalogue/product.aspx?pid=314488). CBC MVCD1053.
+Edith Wiens and Rudolph Jansen. {{% resource_link "1d9e685a-7b2f-43ed-ac02-242b42fc5788" "_Schubert: Lieder_" %}}. CBC MVCD1053.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -160,9 +160,9 @@ No. 10, "Tränenregen"
 {{< tdopen >}}
 
 
-[Op. 25 scores](http://imslp.org/wiki/Die_Sch%C3%B6ne_M%C3%BCllerin,_D.795_%28Op.25%29_%28Schubert,_Franz%29)  
-Texts: [No. 7](http://www.lieder.net/lieder/get_text.html?TextId=11902), [No. 8](http://www.lieder.net/lieder/get_text.html?TextId=11864),  
-[No. 9](http://www.lieder.net/lieder/get_text.html?TextId=11793), [No. 10](http://www.lieder.net/lieder/get_text.html?TextId=11896)
+{{% resource_link "678cfdc1-0699-413f-8e8c-cc362ca7f574" "Op. 25 scores" %}}  
+Texts: {{% resource_link "154197ce-74f9-4b49-9601-84eec8c0cfb8" "No. 7" %}}, {{% resource_link "a1f3fddd-bfd8-407b-8aa6-a93f9674b510" "No. 8" %}},  
+{{% resource_link "e8e29770-4e2b-46b7-af34-49e48b6b7e16" "No. 9" %}}, {{% resource_link "5526df09-d677-4d5f-a3f7-7418997c40e6" "No. 10" %}}
 
 
 {{< tdclose >}}
@@ -177,8 +177,8 @@ _Gretchen am Spinnrade_, Op. 2 (D.118).
 Text by Johann Wolfgang von Goethe ("Meine Ruh' ist hin", or "My peace is gone"), from _Faust_.
 {{< tdclose >}}
 {{< tdopen >}}
-[Scores](http://imslp.org/wiki/Gretchen_am_Spinnrade,_D.118_%28Op.2%29_%28Schubert,_Franz%29)  
-[Text](http://www.lieder.net/lieder/get_text.html?TextId=17757)
+{{% resource_link "7065edfe-40cb-4a93-b0cf-861f82db02f6" "Scores" %}}  
+{{% resource_link "5b302b20-9f2a-495c-b611-757f90f43294" "Text" %}}
 {{< tdclose >}}
 {{< tdopen rowspan="2" >}}
 Tamara Takács and Jeno Jandó. _Schubert: Lieder_. Naxos, 1994.
@@ -191,8 +191,8 @@ _Der Tod und das Mädchen_, Op. 7 No. 3 (D.531).
 Text by Matthias Claudius.
 {{< tdclose >}}
 {{< tdopen >}}
-[Scores](http://imslp.org/wiki/Der_Tod_und_das_M%C3%A4dchen,_D.531_%28Op.7_No.3%29_%28Schubert,_Franz%29)  
-[Text](http://www.lieder.net/lieder/get_text.html?TextId=3856)
+{{% resource_link "305646bc-51b5-4fe9-8635-5ae255c0cebc" "Scores" %}}  
+{{% resource_link "5caa63f7-d08f-48a1-aa9c-8c21e5632cff" "Text" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -205,8 +205,8 @@ Robert Schumann
 Text by Josef Karl Benedikt von Eichendorff.
 {{< tdclose >}}
 {{< tdopen >}}
-[Op. 39 score](http://imslp.org/wiki/Liederkreis,_Op.39_%28Schumann,_Robert%29)  
-[Text](http://www.lieder.net/lieder/get_text.html?TextId=5312)
+{{% resource_link "43704f36-ecde-4037-bbb6-c1f6a1972aee" "Op. 39 score" %}}  
+{{% resource_link "ad30db4c-f6a5-4be2-8cb7-e3f4daaef54e" "Text" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Dietrich Fischer-Dieskau, Gerald Moore, and Hertha Klust. _Schumann: Liederkreis Op. 24 & Op. 39_. EMI Classics, 2004 (reissue).
@@ -226,8 +226,8 @@ No. 6, "Im Rhein, im heiligen Strome"
 No. 7, "Ich grolle nicht"
 {{< tdclose >}}
 {{< tdopen >}}
-[Op. 48 scores](http://imslp.org/wiki/Dichterliebe,_Op.48_%28Schumann,_Robert%29)  
-[Texts](http://www.lieder.net/lieder/assemble_texts.html?SongCycleId=15)
+{{% resource_link "4910e91c-5dad-4117-b411-098b905a2526" "Op. 48 scores" %}}  
+{{% resource_link "dd628828-a5f9-4563-a72a-baf194fdb636" "Texts" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Dietrich Fischer-Dieskau and Alfred Brendel. _Schumann: Liederkries Op.39/Dichterliebe Op.48_. Recorded 1985. Phillips, 1990.
@@ -243,8 +243,8 @@ Hugo Wolf
 Text by Johann Wolfgang von Goethe.
 {{< tdclose >}}
 {{< tdopen >}}
-_[Goethe-Lieder score](http://imslp.org/wiki/Goethe_Lieder_%28Wolf,_Hugo%29)_; see p. 99.  
-[Text](http://www.lieder.net/lieder/get_text.html?TextId=6308)
+_{{% resource_link "f9e6a985-4139-4b3a-8a44-0c411d4a2855" "Goethe-Lieder score" %}}_; see p. 99.  
+{{% resource_link "11d68b12-a67f-4619-90b1-f8d94c0f26a5" "Text" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Dawn Upshaw and Richard Goode. _Goethe Lieder_. Nonesuch, 1994.
@@ -258,7 +258,7 @@ Text by Johann Wolfgang von Goethe.
 {{< tdclose >}}
 {{< tdopen >}}
 Score: see above link, p. 100  
-[Text](http://www.lieder.net/lieder/get_text.html?TextId=6434)
+{{% resource_link "2acfd117-3903-401c-9501-65bf648cd78d" "Text" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Mitsuko Shirai and Hartmut Holl. _Wolf: Goethe-Lieder_. Capriccio, 1999.
