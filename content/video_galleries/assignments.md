@@ -46,37 +46,37 @@ Anonymous MIT student
 {{< tdclose >}}{{< tdopen >}}
 ({{% resource_link "4daea391-27fd-c170-683d-b7d29ac8d6ab" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
-Internet Archive ([MP3 - 2.3MB](http://www.archive.org/download/MIT21M.303S09/assn_sq_anon.mp3))
+Internet Archive ({{% resource_link "5f672b5a-f655-4f5f-81ea-84b2916d3d51" "MP3 - 2.3MB" %}})
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Carrie Keach
 {{< tdclose >}}{{< tdopen >}}
 ({{% resource_link "5f201159-61ea-96bb-e4eb-768028854a65" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
-Internet Archive ([MP3 - 2.7MB](http://www.archive.org/download/MIT21M.303S09/assn_sq_keach.mp3))
+Internet Archive ({{% resource_link "07acfa6d-3568-48a7-8880-ef5d1b0219c7" "MP3 - 2.7MB" %}})
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Thanasin Nampaisarn
 {{< tdclose >}}{{< tdopen >}}
 not available
 {{< tdclose >}}{{< tdopen >}}
-Internet Archive ([MP3 - 3.6MB](http://www.archive.org/download/MIT21M.303S09/assn_sq_nampaisarn.mp3))
+Internet Archive ({{% resource_link "b1fe4ceb-fda6-4813-a6bc-ed13b1850df2" "MP3 - 3.6MB" %}})
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Kathryn Shroyer
 {{< tdclose >}}{{< tdopen >}}
 ({{% resource_link "3c8986ab-d96a-6e65-1234-e966a5b9dce2" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
-Internet Archive ([MP3 - 3.5MB](http://www.archive.org/download/MIT21M.303S09/assn_sq_shroyer.mp3))
+Internet Archive ({{% resource_link "b8409be6-b30a-4fb6-9662-8fbf8d88416b" "MP3 - 3.5MB" %}})
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Eli Stickgold
 {{< tdclose >}}{{< tdopen >}}
 not available
 {{< tdclose >}}{{< tdopen >}}
-Internet Archive ([MP3 - 3.1MB](http://www.archive.org/download/MIT21M.303S09/assn_sq_stickgold.mp3))
+Internet Archive ({{% resource_link "6c52e335-619c-4161-9df0-bec268715200" "MP3 - 3.1MB" %}})
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Stephanie Wu
 {{< tdclose >}}{{< tdopen >}}
 ({{% resource_link "e4247b06-0d26-4db9-d500-b0af5802a03b" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
-Internet Archive ([MP3 - 5.1MB](http://www.archive.org/download/MIT21M.303S09/assn_sq_wu.mp3))
+Internet Archive ({{% resource_link "6716c41a-f680-4052-8c06-af580e20bc99" "MP3 - 5.1MB" %}})
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 ### Lied (Song) for Soprano and Piano
