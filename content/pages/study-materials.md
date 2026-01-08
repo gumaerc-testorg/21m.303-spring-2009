@@ -75,6 +75,6 @@ Model 2: returning to the tonic using circle of fifths progression
 MIT Lewis Music Library Resources
 ---------------------------------
 
-{{% resource_link "d8e4dcea-bb7a-40fc-93e7-41c477040c13" "List of music resources" %}}
+[List of music resources](http://libguides.mit.edu/music)
 
 **Note**: some of the links provided on this page are open to the public, while others are subscription-based services available only to members of the MIT community. You may be able to access the subscription-based links through your local library or other institutions.
